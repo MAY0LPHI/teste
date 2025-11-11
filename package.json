@@ -1,0 +1,34 @@
+{
+  "name": "bible-for-you",
+  "version": "1.0.0",
+  "description": "A responsive web application for exploring Bible verses with AI integration.",
+  "main": "src/main.tsx",
+  "scripts": {
+    "start": "vite",
+    "build": "vite build",
+    "serve": "vite preview",
+    "test": "vitest"
+  },
+  "dependencies": {
+    "react": "^18.0.0",
+    "react-dom": "^18.0.0",
+    "vite": "^4.0.0",
+    "axios": "^0.21.1",
+    "react-router-dom": "^6.0.0",
+    "react-speech-kit": "^2.0.0"
+  },
+  "devDependencies": {
+    "typescript": "^4.5.0",
+    "vite-plugin-react": "^1.0.0",
+    "vitest": "^0.0.0"
+  },
+  "keywords": [
+    "bible",
+    "webapp",
+    "react",
+    "ai",
+    "responsive"
+  ],
+  "author": "Your Name",
+  "license": "MIT"
+}
